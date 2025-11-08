@@ -1,2 +1,17 @@
-
-/* Your CSS Code here. */
+caption,th,td{
+border:solid black 2px}
+caption{
+	font-weight:bold
+}
+table{
+	border:solid black 2px;
+	margin:2px;
+	width:100%;
+	height:auto;
+	top:0;
+}
+.t4{
+    background-color: black;
+    color: white; 
+    text-align: center;
+}
